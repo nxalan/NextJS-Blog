@@ -1,7 +1,7 @@
 This is a NextJS simple blog application that uses markdown files to generate blog posts and have a contact pages that saves every message inside a mongoDB database.
 
 You can see this application live on:
- [https://next-js-blog-coral-tau.vercel.app)](https://next-js-blog-coral-tau.vercel.app/)
+ [https://next-js-blog-coral-tau.vercel.app](https://next-js-blog-coral-tau.vercel.app/)
 
 ## Getting Started
 
