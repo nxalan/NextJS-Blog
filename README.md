@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) simple blog application that uses markdown files to generate blog posts and have a contact pages that saves every message inside a node database.
+
+You can see this application live [here](https://next-js-blog-coral-tau.vercel.app/)
 
 ## Getting Started
 
